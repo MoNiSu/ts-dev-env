@@ -1,0 +1,6 @@
+{
+    "legacyWatch": true,
+    "watch": "src",
+    "ext": "ts, json",
+    "exec": "yarn start"
+}
